@@ -1,11 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 3404-F612
-
- Directory of C:\Users\Admin\Desktop\JavaProject1
-
-10/26/2020  02:59 PM    <DIR>          .
-10/26/2020  02:59 PM    <DIR>          ..
-10/26/2020  02:13 PM               162 Hello.java
-10/26/2020  02:59 PM                 0 test.txt
-               2 File(s)            162 bytes
-               2 Dir(s)  38,569,758,720 bytes free
+changes
